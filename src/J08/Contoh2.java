@@ -31,7 +31,7 @@ public class Contoh2 {
         x = 1;
         do
         {
-            System.out.print(x + " ");
+            System.out.println(x + " ");
             x++;
         }
         while(x <= 10);
